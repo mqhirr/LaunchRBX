@@ -23,6 +23,7 @@ Requirements are the same as above
 - [Guna UI](https://gunaframework.com/)
 - [Visual Studio 2019](https://visualstudio.microsoft.com/vs/)
 - [SharkBlox](https://www.youtube.com/c/SharkBlox) Especially **[this video](https://www.youtube.com/watch?v=hn0i0Fufm_Q)**
+- [Grapejuice](https://gitlab.com/brinkervii/grapejuice) **i made the logo because the grapejuice logo is pog**
 
 #### Note
 i just made the gui beatiful,it's just 1 line of code that works lol.
