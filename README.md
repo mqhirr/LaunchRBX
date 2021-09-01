@@ -8,6 +8,9 @@ A basic launcher for ROBLOX.
 # How it works
 It basically launches the roblox-player:// protocol using **System.Diagnostics.Process.Start** and it just works
 
+# Platform
+Sorry gamers only available for Windows 64-bit
+
 #### Preview
 <img alt="image" src="/.github/images/preview.png" align="middle">
 
