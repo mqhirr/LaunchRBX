@@ -24,6 +24,7 @@ namespace LaunchRBX
 
         private void button1_Click_1(object sender, EventArgs e)
         {
+            // launches beta
             System.Diagnostics.Process.Start("roblox-player://roblox-player:+launchmode:app+robloxLocale:en_us+gameLocale:en_us+LaunchExp:InApp");
             Application.Exit();
         }
@@ -40,6 +41,7 @@ namespace LaunchRBX
 
         private void button2_Click(object sender, EventArgs e)
         {
+            // launches the website
             System.Diagnostics.Process.Start("https://www.roblox.com");
             Application.Exit();
         }
@@ -51,12 +53,14 @@ namespace LaunchRBX
 
         private void guna2GradientButton1_Click(object sender, EventArgs e)
         {
+            // launches beta v2
             System.Diagnostics.Process.Start("roblox-player://roblox-player:+launchmode:app+robloxLocale:en_us+gameLocale:en_us+LaunchExp:InApp");
             Application.Exit();
         }
 
         private void guna2GradientButton2_Click(object sender, EventArgs e)
         {
+            // launches the website v2
             System.Diagnostics.Process.Start("https://www.roblox.com");
             Application.Exit();
         }
@@ -68,6 +72,7 @@ namespace LaunchRBX
 
         private void guna2Button1_Click(object sender, EventArgs e)
         {
+            // exit bu'on
             Application.Exit();
         }
 
@@ -88,6 +93,7 @@ namespace LaunchRBX
 
         private void guna2PictureBox1_Click(object sender, EventArgs e)
         {
+            // easter egg or smth idk
             new Form2().Show();
             this.Hide();
         }
