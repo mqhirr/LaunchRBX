@@ -9,6 +9,8 @@ A basic launcher for ROBLOX.
 It basically launches the roblox-player:// protocol using **System.Diagnostics.Process.Start** and it just works
 
 # Building
+You need Visual Studio 2019 to build LaunchRBX.
+First clone this project and then open the given .sln file.
 
 # Credits
 - [Guna UI](https://gunaframework.com/)
