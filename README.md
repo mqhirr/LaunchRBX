@@ -30,3 +30,4 @@ Requirements are the same as above
 
 #### Note
 i just made the gui beatiful,it's just 1 line of code that works lol.
+- also i was planning on a discord status but im not that poggers so if you can contribute and make it i will appreciate it
