@@ -5,11 +5,11 @@
 A basic launcher for ROBLOX.
 - literally
 
-#### Preview
-<img alt="image" src="/.github/images/preview.png" align="middle">
-
 # How it works
 It basically launches the roblox-player:// protocol using **System.Diagnostics.Process.Start** and it just works
+
+#### Preview
+<img alt="image" src="/.github/images/preview.png" align="middle">
 
 # Building
 You need Visual Studio 2019 to build LaunchRBX,
