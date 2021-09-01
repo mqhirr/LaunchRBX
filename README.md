@@ -11,8 +11,12 @@ It basically launches the roblox-player:// protocol using **System.Diagnostics.P
 # Building
 You need Visual Studio 2019 to build LaunchRBX,
 First clone this project and then open the given .sln file.
+#### Making a setup
+Requirements are the same as above
+- Clone and use the given .sln file for the setup project.
 
 # Credits
+- [ROBLOX](https://roblox.com)
 - [Guna UI](https://gunaframework.com/)
 - [Visual Studio 2019](https://visualstudio.microsoft.com/vs/)
 - [SharkBlox](https://www.youtube.com/c/SharkBlox) Especially **[this video](https://www.youtube.com/watch?v=hn0i0Fufm_Q)**
